@@ -82,7 +82,7 @@
 .burger-x-button {
   width: 28px;
   height: 28px;
-  background-image: url(../img/Icon-x.svg);
+  background-image: url(../img/Icon_x.svg);
   background-repeat: no-repeat;
   background-position: center;
   border: none;
@@ -92,5 +92,5 @@
 .burger-x-button:hover,
 .burger-x-button:focus,
 .burger-x-button:active {
-  background-image: url(../img/Icon-x-hover.svg);
+  background-image: url(../img/Icon_x_hover.svg);
 }
